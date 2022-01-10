@@ -1,0 +1,42 @@
+.portofoliu {
+  margin-top: 2em;
+
+  h2 {
+    text-align: center;
+    font-size: 32px;
+  }
+
+  .portofoliuPoze {
+    margin-top: 3em;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+    div {
+      width: 90%;
+      height: 5em;
+      margin: 1em 0;
+      border: 1px solid black;
+      text-align: center;
+
+      // @include viewport()
+    }
+    }
+
+    h3 {
+      margin-top: 1em;
+    }
+  }
+
+
+.fotografieProdus {
+
+}
+
+// .fotografieEveniment {
+
+// }
+
+// .fotografieAeriana {
+
+// }
